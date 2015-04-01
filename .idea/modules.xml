@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/library_ColorTrackView/library_ColorTrackView.iml" filepath="$PROJECT_DIR$/library_ColorTrackView/library_ColorTrackView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample_ColorTrackeView/sample_ColorTrackeView.iml" filepath="$PROJECT_DIR$/sample_ColorTrackeView/sample_ColorTrackeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tes.iml" filepath="$PROJECT_DIR$/tes.iml" />
+    </modules>
+  </component>
+</project>
+
