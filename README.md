@@ -1,6 +1,10 @@
 # Android-ColorTrackView
-字体或者图片可以逐渐染色和逐渐褪色的动画效果
+## Update
 
+ 1. 支持Android studio,Gradle项目构建 
+
+字体或者图片可以逐渐染色和逐渐褪色的动画效果
+---
 # 效果图
 
 ## 简单使用
